@@ -429,9 +429,9 @@ namespace OverlayInformation
                     {
                         if (sphere.CanBeCasted())
                         {
-                            effect = new ParticleEffect("particles/items_fx/immunity_sphere_buff.vpcf", hero,
-                                ParticleAttachment.RootboneFollow);
-                            LinkenDictinart.Add(hero, effect);
+                            //effect = new ParticleEffect("particles/items_fx/immunity_sphere_buff.vpcf", hero,
+                            //    ParticleAttachment.RootboneFollow);
+                            //LinkenDictinart.Add(hero, effect);
                         }
                     }
 

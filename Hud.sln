@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisibleByEnemy", "VisibleByEnemy\VisibleByEnemy.csproj", "{EBFCE97E-DD8E-4A33-8C60-0A819430D971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemPanel", "Item Panel\ItemPanel.csproj", "{4CA6381D-260A-4E1A-8C29-B00F8BD3DFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverylayInformationV2", "OverylayInformationV2\OverylayInformationV2.csproj", "{E57E1447-151A-46EF-9FAC-AF5ED38E5202}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EBFCE97E-DD8E-4A33-8C60-0A819430D971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBFCE97E-DD8E-4A33-8C60-0A819430D971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBFCE97E-DD8E-4A33-8C60-0A819430D971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA6381D-260A-4E1A-8C29-B00F8BD3DFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA6381D-260A-4E1A-8C29-B00F8BD3DFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA6381D-260A-4E1A-8C29-B00F8BD3DFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA6381D-260A-4E1A-8C29-B00F8BD3DFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57E1447-151A-46EF-9FAC-AF5ED38E5202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57E1447-151A-46EF-9FAC-AF5ED38E5202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57E1447-151A-46EF-9FAC-AF5ED38E5202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57E1447-151A-46EF-9FAC-AF5ED38E5202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
